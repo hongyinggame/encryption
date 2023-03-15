@@ -1,2 +1,2 @@
-# encryption
+# DNAencryption
 Binary to DNA
